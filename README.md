@@ -1,14 +1,22 @@
 # 📊 Projeto Alura Store: Análise de Eficiência para Tomada de Decisão
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+  </a>
 </p>
 
 ## 📌 Sobre o Projeto
-Este projeto foi desenvolvido como parte do **Challenge de Data Science da Alura**. O cenário envolve um cliente real fictício, o **Senhor João**, dono de uma rede de 4 lojas. Ele precisa vender uma de suas unidades para investir em um novo empreendimento e solicitou uma análise baseada em dados para decidir qual loja tem a **menor eficiência**.
+Este projeto foi desenvolvido como parte do **Challenge de Data Science da Alura**. O cenário envolve um cliente fictício, o **Senhor João**, dono de uma rede de 4 lojas. Ele precisa vender uma de suas unidades para investir em um novo empreendimento e solicitou uma análise baseada em dados para decidir qual loja tem a **menor eficiência**.
 
 ---
 
@@ -39,15 +47,10 @@ Durante o projeto, foram geradas visualizações para responder a perguntas crí
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** Python
-* **Bibliotecas:** * `Pandas`: Manipulação e tratamento dos dados.
-    * `Matplotlib`: Criação de gráficos estáticos e visualização profissional.
-* **Ferramenta:** Google Colab
+## 🛠️ Tecnologias e Documentação
+Clique nos botões abaixo para acessar a documentação oficial das ferramentas utilizadas:
 
----
-
-## 🚀 Como Executar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/Challenge_Alura_Store.git](https://github.com/SEU-USUARIO/Challenge_Alura_Store.git)
+* 🐍 [Python](https://docs.python.org/3/) - Linguagem base.
+* 🐼 [Pandas](https://pandas.pydata.org/docs/) - Manipulação e tratamento dos dados.
+* 📊 [Matplotlib](https://matplotlib.org/stable/contents.html) - Criação de gráficos estáticos e visualização profissional.
+* 🚀 [Google Colab](https://colab.research.google.com/) - Ambiente de desenvolvimento.
